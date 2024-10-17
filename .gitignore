@@ -42,6 +42,7 @@ profile.cov
 
 # IdeaIDE
 .idea
+*.iml
 
 # VS Code
 .vscode
